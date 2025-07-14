@@ -16,6 +16,6 @@ public class Enemy : MonoBehaviour
 
     void Greetings()
     {
-        Debug.Log("Waza");
+        Debug.Log("Hello");
     }
 }
