@@ -3,7 +3,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     private Color enemyColor = Color.green;
-    private string message = "Hello";
+    private string message = "Sup";
     void Start()
     {
         Greetings();
