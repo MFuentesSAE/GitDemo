@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    private Color enemyColor = Color.green;
+    private Color enemyColor = Color.red;
     private string message = "Waza";
     void Start()
     {
